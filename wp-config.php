@@ -23,13 +23,13 @@
 define( 'DB_NAME', 'demowebsite' );
 
 /** Username của database */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'demoweb' );
 
 /** Mật khẩu của database */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', 'bofudb9qnzjGaeW9v' );
 
 /** Hostname của database */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', '35.235.77.112' );
 
 /** Database charset sử dụng để tạo bảng database. */
 define( 'DB_CHARSET', 'utf8mb4' );
